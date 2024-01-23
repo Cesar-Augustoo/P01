@@ -22,11 +22,5 @@
 *   .NET 5
 
 ## Proposta do projeto
-O projeto possui duas funcionalidades essenciais:
-Cadastrar reservas para um evento;
-Cadastrar conteúdos para um site educacional.
-
-*   Tratamento de pagamentos
-*   Reserva de assentos em um evento
-*   Notificações
-*   Conteúdos de um site educacional
+*   Mostrar Notificações
+*   Cadastrar conteúdos de um site educacional
